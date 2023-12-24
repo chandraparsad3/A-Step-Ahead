@@ -87,7 +87,7 @@ For detailed usage instructions and features, please refer to the [README.md](RE
 
 ## Contributing
 
-We welcome contributions to enhance and improve A Step Ahead. Follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file to contribute effectively.
+We welcome contributions to enhance and improve A Step Ahead. 
 
 # Feedback and Contact
 
